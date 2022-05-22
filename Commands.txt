@@ -1,0 +1,3 @@
+To Edit Program : gedit filename.cpp
+To Compile Program : gcc filename.cpp -lstdc++
+To Run Program : ./a.out
